@@ -1,4 +1,4 @@
-from persona import particular, carga, bicicleta, motocicleta, vehiculo, automovil
+from vehiculo import particular, carga, bicicleta, motocicleta, vehiculo, automovil
 import csv
 
 def guardar(nombre_archivo, automovil): 

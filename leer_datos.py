@@ -1,4 +1,4 @@
-from persona import particular, carga, bicicleta, motocicleta
+from vehiculo import particular, carga, bicicleta, motocicleta
 import csv
 import ast
 
