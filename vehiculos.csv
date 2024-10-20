@@ -1,0 +1,4 @@
+<class 'persona.particular'>,"{'marca': 'Ford', 'modelo': 'Fiesta', 'n_ruedas': 4, 'velocidad': '180', 'cilindrada': '500', 'n_puesto': 5}"
+<class 'persona.carga'>,"{'marca': 'Daft Trucks', 'modelo': 'G 38', 'n_ruedas': 10, 'velocidad': 120, 'cilindrada': '1000', 'carga': '20000'}"
+<class 'persona.bicicleta'>,"{'marca': 'Shimano', 'modelo': 'MT Ranger', 'n_ruedas': 2, 'tipo': 'Carrera'}"
+<class 'persona.motocicleta'>,"{'marca': 'BMW', 'modelo': 'F800s', 'n_ruedas': 2, 'tipo': 'Deportiva', 'nro_radios': '2T', 'cuadro': 'Doble viga', 'motor': 21}"
