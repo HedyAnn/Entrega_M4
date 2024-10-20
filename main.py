@@ -1,6 +1,7 @@
-from persona import *
+from vehiculo import *
 from guardar_datos import *
 from leer_datos import *
+from crear_vehiculo import *
 
 crear_vehiculos()
 
